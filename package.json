@@ -13,16 +13,12 @@
   "author": "Aykut Kardaş <aykutkrds@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "@zeit/next-sass": "^1.0.1",
-    "bootstrap": "^4.4.1",
+    "axios": "^0.19.0",
     "mobx": "^5.15.1",
     "mobx-react": "^6.1.4",
     "next": "^9.1.7",
-    "next-sass": "^1.0.3",
-    "node-sass": "^4.13.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "typescript": "^3.7.4"
+    "react-dom": "^16.12.0"
   },
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.7.4",
@@ -30,7 +26,11 @@
     "@types/node": "^13.1.4",
     "@types/react": "^16.9.17",
     "@types/react-dom": "^16.9.4",
+    "@zeit/next-sass": "^1.0.1",
     "autoprefixer": "^9.7.3",
-    "postcss": "^7.0.26"
+    "bootstrap": "^4.4.1",
+    "node-sass": "^4.13.0",
+    "postcss": "^7.0.26",
+    "typescript": "^3.7.4"
   }
 }
