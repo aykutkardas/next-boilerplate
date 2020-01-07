@@ -1,0 +1,14 @@
+// @include font-face("FontName", "directory", "FontName-Medium", 500);
+// @include font-face(
+//   "FontName",
+//   "directory",
+//   "FontName-MediumItalic",
+//   500,
+//   italic
+// );
+
+$font-size-base: 1rem !default;
+$line-height-base: 1.5 !default;
+$font-family-base: "FontName";
+$font-family-sans-serif: "FontName", -apple-system, BlinkMacSystemFont,
+  "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
