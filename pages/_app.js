@@ -5,7 +5,7 @@ import { Provider } from 'mobx-react'
 
 import '../styles/index.scss';
 
-class MyMobxApp extends App {
+class MyApp extends App {
   state = {
     store: new Store(),
   }
@@ -36,4 +36,4 @@ class MyMobxApp extends App {
     )
   }
 }
-export default MyMobxApp
+export default MyApp
