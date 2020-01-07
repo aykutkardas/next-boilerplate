@@ -1,5 +1,10 @@
+// Preparation
 @import "mixins/index";
 @import "variables/index";
 @import "utilities/index";
 
+// Third Party Frameworks
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+// Components
+@import "components/index";
