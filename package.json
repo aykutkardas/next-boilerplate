@@ -13,7 +13,7 @@
   "author": "Aykut Kardaş <aykutkrds@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "mobx": "^5.15.1",
     "mobx-react": "^6.1.4",
     "next": "^9.3.2",
