@@ -30,7 +30,7 @@
     "autoprefixer": "^9.7.3",
     "bootstrap": "^4.4.1",
     "node-sass": "^4.13.1",
-    "postcss": "^7.0.26",
+    "postcss": "^7.0.36",
     "typescript": "^3.7.4"
   }
 }
